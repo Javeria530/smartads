@@ -11,6 +11,7 @@ import cloudinary.uploader
 
 # moviepy import: use specific submodule path to avoid editor import issues
 from moviepy.video.io.ImageSequenceClip import ImageSequenceClip
+#create video ad through prompt, with captions and voiceovers
 
 video_ad_module = Blueprint('video_ad_module', __name__)
 CORS(video_ad_module, origins=["*"])
