@@ -1,5 +1,7 @@
 # SmartAds - AI-Powered Advertising Platform
 
+> NOTE: Project updated with tests (login/signup & sentiment analysis).
+
 An intelligent advertising platform that uses AI to generate logos, posters, videos, and marketing content.
 
 ## 🚀 Features
